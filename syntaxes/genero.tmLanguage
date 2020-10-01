@@ -8,7 +8,7 @@
 		<string>4GL</string>
 	</array>
 	<key>name</key>
-	<string>4GL Source</string>
+	<string>Genero</string>
 	<key>patterns</key>
 	<array>
 		<dict>
@@ -628,7 +628,7 @@
 		</dict>
 	</dict>
 	<key>scopeName</key>
-	<string>source.4gl</string>
+	<string>source.genero</string>
 	<key>uuid</key>
 	<string>57e5f7d4-6749-41bd-beab-c96b24ce2752</string>
 </dict>
